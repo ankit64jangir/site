@@ -1,0 +1,116 @@
+
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  font-size: 5em;;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Marck Script', cursive;
+  color: #66BFBF;
+}
+.res{
+  max-width: 100%;
+  height: auto;
+}
+
+.p{
+  font-family: inherit;
+  font-size: 2em;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 1;
+}
+.po{
+  color: #40514E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 10%;
+  border-color: grey;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.dev{
+  text-decoration: underline;
+}
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+
+
+}
+.ankit{
+  border-radius: 50%;
+}
+.skat{
+  float: left;
+  width: 40%;
+}
+.music{
+  float: right;
+  width: 40%;
+}
+h3,a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 2;
+  padding: 10px 0 10px 0;
+}
+.foo{
+  color: white;
+  margin-top: 5px;
+}
+
+.contact-me{
+  line-height: 2;
+  margin-bottom: 20px;
+}
+
+.btn{
+  background-color: #11999E;
+  border-radius: 10%;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  margin: 5px 0 5px 0;
+}
+.btn1{
+  margin-right: 20px;
+}
+.btn2{
+  margin-left: 20px;
+}
+
+.link1{
+  margin-right: 30px;
+}
+.link2{
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.link3{
+  margin-left: 30px;
+}
